@@ -1,9 +1,10 @@
 {
-  "_class": "page",
-  "booleanOperation": 0,
-  "do_objectID": "74a6b670-d1a2-11e8-a3a5-117376ce01b9",
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "5EA8A218-C9C6-4098-B10C-8D4459FBBA2D",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "8A1FB60C-85B5-469F-B03A-5FDED772DC30",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,19 +15,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "do_objectID": "0DE27C78-1831-4F03-B7C9-A07A295005A4",
+    "height": 1920,
+    "width": 1080,
+    "x": -52050,
+    "y": -25279
   },
-  "hasClickThrough": true,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -333,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "hasClickThrough": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -35,19 +30,15 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "AC30F9D0-745D-4C9D-8C1E-BCF227D10C54"
+      "class": "shapeGroup",
+      "id": "1A5662FE-E100-4CBE-A407-49BB10AA8E2A"
     },
     {
-      "class": "group",
-      "id": "5EA8A218-C9C6-4098-B10C-8D4459FBBA2D"
-    },
-    {
-      "class": "group",
-      "id": "879E6101-388E-4494-BB42-2D54AE4E65D7"
+      "class": "shapeGroup",
+      "id": "65EB344F-A895-4B77-BF04-E664479F5089"
     }
   ],
-  "name": "Page 1",
+  "name": "Oval Copy",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -55,15 +46,10 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "35707266-B4B6-48D7-9206-0AC57391B81A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -265,
-    "guides": [
-    ]
   }
 }
