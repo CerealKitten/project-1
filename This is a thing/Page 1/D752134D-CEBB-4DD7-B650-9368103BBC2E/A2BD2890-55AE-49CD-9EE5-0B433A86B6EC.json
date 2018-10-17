@@ -48,9 +48,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 83,
-    "width": 304,
-    "x": 53,
-    "y": 279
+    "width": 267,
+    "x": 63,
+    "y": 292
   },
   "glyphBounds": "{{1, 16}, {253, 48}}",
   "isFixedToViewport": false,
